@@ -1,4 +1,4 @@
-# Kortix, the open-source AI Operating System: a Copilot Studio cost model
+# Kortix, the open-source CompanyOS: a Copilot Studio cost model
 
 This repository prices a stated Copilot Studio workload on Microsoft's published rates. It is open source, reads two JSON files, counts the credits one interaction draws, multiplies by the interactions a month, and prints the pack total beside the pay-as-you-go total. Standard library only.
 
@@ -62,4 +62,4 @@ What a credit buys, and where the pack and meter routes land for two more worklo
 
 ## The other meter
 
-[Kortix](https://kortix.com) is the open-source AI Operating System, and its credits buy something different. From the [Kortix pricing](https://kortix.com/pricing) page: "Credits pay for the agent computer: the cloud machine where your agent runs code, browses and edits files. It bills per second while it runs and costs nothing while it is stopped." Model calls go to your own provider key or to the ChatGPT subscription you already pay for. Any model provider with your own keys. Open source. Read it, fork it, audit it. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+[Kortix](https://kortix.com) is the open-source CompanyOS, and its credits buy something different. From the [Kortix pricing](https://kortix.com/pricing) page: "Credits pay for the agent computer: the cloud machine where your agent runs code, browses and edits files. It bills per second while it runs and costs nothing while it is stopped." Model calls go to your own provider key or to the ChatGPT subscription you already pay for. Any model provider with your own keys. Open source. Read it, fork it, audit it. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
